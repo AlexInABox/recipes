@@ -1,2 +1,2 @@
-# recipies
+# recipes
 A collection of all of the compose files for my podman containers ^^
